@@ -6,7 +6,7 @@ layout: post
 ## 关于我
 咸鱼一枚，喜欢折腾新事物，热爱唱歌和拍照，还有......玩游戏！
 
-# 我的相关链接（个人主页）
+### 我的相关链接（个人主页）
 [bilibili](https://space.bilibili.com/28333552)   |  [Twitter](https://twitter.com/huiqiang233)  |  [Weibo](https://weibo.com/huiqiangwl)
 
 ## 对博客的理解
