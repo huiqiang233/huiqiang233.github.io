@@ -1,5 +1,5 @@
 ---
-title: Why Blog
+title: 辉枪的博客
 layout: post
 ---
 
