@@ -7,7 +7,7 @@ layout: post
 咸鱼一枚，喜欢折腾新事物，热爱唱歌和拍照，还有......玩游戏！
 
 ### 我的相关链接（个人主页）
-bilibili：[辉枪233](https://space.bilibili.com/28333552)   | Twitter：[辉枪233](https://twitter.com/huiqiang233)  |  Weibo：[辉枪233](https://weibo.com/huiqiangwl)
+bilibili：@[辉枪233](https://space.bilibili.com/28333552)   | Twitter：@[辉枪233](https://twitter.com/huiqiang233)  |  Weibo：@[辉枪233](https://weibo.com/huiqiangwl)
 
 ## 对博客的理解
 
