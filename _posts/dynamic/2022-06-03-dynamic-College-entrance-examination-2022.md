@@ -2,7 +2,7 @@
 layout: post
 title: 我将面临人生第二大关卡！
 category: 动态
-keywords: 生活,人生,高考,2022
+keywords: 生活,人生,高考,2022高考
 ---
 
 我将在2022年6月7日9：00开始参加全国高考！
