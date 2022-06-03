@@ -10,7 +10,7 @@ layout: post
 bilibili：@[辉枪233](https://space.bilibili.com/28333552)   | Twitter：@[huiqiang233](https://twitter.com/huiqiang233)  |  Weibo：@[辉枪233](https://weibo.com/huiqiangwl)
 
 
-####我的追番动态（BGM提供）
+#### 我的追番动态（BGM提供）
 <a href="http://bgm.tv/user/citizenl"><img src="http://bgm.tv/chart/img/647464" border="0" alt="辉枪233 的个人主页" /></a>
 
 
