@@ -1,5 +1,5 @@
 ---
-title: 辉枪的博客
+title: 主页
 layout: post
 ---
 
