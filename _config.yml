@@ -1,0 +1,49 @@
+# Site settings
+title: 辉枪的博客
+email: huiqiang233.info@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  辉枪的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://huiqiang233.github.io # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: 辉枪
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+bilibili: 28333552
+twitter: huiqiang233
+weibo: 6148738943
+github: huiqiang233
+
+# avatar and Favicon
+avatar: http://huiqiang233.github.io/1578226037104.jpeg
+favicon: http://huiqiang233.github.io/site-favicon.ico
+
+# disqus config
+# disqus:
+#  shortname: suyan-zh
+
+# google analytics config
+# ga:
+#  id: UA-54767140-1
+#  url: yansu.org
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
