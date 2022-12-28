@@ -17,5 +17,5 @@ category: 致语涵
 ##### 然后呢，告诉你剩下的生日礼物是什么：
 
 <div style='overflow:hidden;'><div><input title="点击我打开" type="button" value="展开折叠内容" onClick="n = this.parentNode.parentNode.lastChild;if(n.style.display == 'none') {n.style.display = 'block'; this.value='收起折叠内容'} else {n.style.display = 'none'; this.value='展开折叠内容'} return false;"/></div><div style="display: none;border-style:groove;padding-right:5px;"><table><td>
-   <img src="https://raw.githubusercontent.com/huiqiang233/huiqiang233.github.io/master/image/gift.jpg" alt="生日礼物">
+   <img src="https://smms.app/image/1cToY7r4ElnesPX" alt="生日礼物">
   </td></table></div></div>
