@@ -15,7 +15,14 @@ bilibili：@[辉枪233](https://space.bilibili.com/28333552)   | Twitter：@[hui
 
 
 #### 单推
-<iframe style="width: 700px;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1581066&quality=0" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+<iframe style="width: 700px;height: 400px;" 
+        src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1581066&quality=0&autoplay=0" 
+        frameborder="no" 
+        framespacing="0" 
+        scrolling="no" 
+        allow="encrypted-media" 
+        allowfullscreen="true">
+</iframe>
 
 
 
@@ -34,4 +41,5 @@ bilibili：@[辉枪233](https://space.bilibili.com/28333552)   | Twitter：@[hui
 通过博客，可以记录自己的生活和成长的轨迹。
 这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
 本博客的源码托管在 [Github](https://github.com/suyan/suyan.github.io) 上，如果有任何改进意见，欢迎讨论。
+
 
